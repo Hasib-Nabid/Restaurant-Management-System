@@ -701,6 +701,7 @@ void generateInvoice(Order orders[], int orderCount) {
     printf("%s", COLOR_RESET);
 }
 
+
 // Function to terminate the program
 void terminateProgram() {
     printf("Thank you for using the Restaurant Management System.\n");
